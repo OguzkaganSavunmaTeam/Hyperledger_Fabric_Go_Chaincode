@@ -57,6 +57,7 @@ cd asset-transfer-basic/application-gateway-go
 
 go run 
 
+* Proje de 2 tane Org(org1msp,org2msp) ve her org için 1 tane peer(Peer0org1msp,Peer0org2msp) eklenmiştir.
 
 # - Postman 
 # - Init
